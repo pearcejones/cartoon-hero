@@ -1,0 +1,29 @@
+		body{
+			background-color: lightgrey;
+		}
+
+		h1 {
+			font-size:90px;
+			color:orange;
+			text-decoration: underline;
+			background-color: lightgreen;
+		}
+
+	.small{
+			font-size:12px;
+		}
+
+		h2 {
+			font-size: 40px;
+			color:green;
+		}
+
+		span {
+			font-style: italic;
+		}
+
+		h1 span {
+			text-decoration: line-through;
+		}
+
+
